@@ -21,6 +21,9 @@ logs/
 *.hprof
 hs_err_pid*
 
+
+.idea/
+
 ### Database ###
 *.db
 *.sqlite
